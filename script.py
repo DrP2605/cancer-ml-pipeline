@@ -1,5 +1,4 @@
 # Complete End-to-End ML Pipeline for Cancer Survival and Drug Response Prediction
-# Author: AI Research Assistant
 # Date: September 2025
 
 import pandas as pd
